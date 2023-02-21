@@ -1,13 +1,26 @@
 import React from 'react';
+
 import ReactDOM from 'react-dom/client';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { DarkModeContextProvider} from './Context'
+
+import './index.css';
+
+<>
+<link
+rel="stylesheet"
+href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+/>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.15.23/dist/js/uikit.min.js"></script>
+</>
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
+    <DarkModeContextProvider>
     <App />
+    </DarkModeContextProvider>
   </React.StrictMode>
 );
 

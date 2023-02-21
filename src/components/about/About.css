@@ -1,0 +1,32 @@
+.aboutintro{
+    color:white;
+    font-weight:700;
+    text-align: center;
+}
+.About{
+    display:flex;
+    justify-content: center;
+    margin-top: 2rem;
+    }
+
+    .introtext{
+        font-size:1rem
+    }
+
+    .middleimg img{
+        width:20rem;
+        height:30rem;
+    }
+    .biodata{
+        color:rgb(9, 215, 238);
+        
+    } .biodata li{
+        margin-top:10px;
+        font-size: 1.2rem;
+    }
+    .discription p{
+        color:aliceblue
+    }
+
+   
+    

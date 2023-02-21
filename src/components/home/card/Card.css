@@ -1,0 +1,14 @@
+
+.mapimg{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+.insideimg{
+width:19rem;
+ 
+border-radius: 10px;
+height:15rem;    
+ 
+ 
+}

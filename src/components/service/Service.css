@@ -1,0 +1,26 @@
+*.services{
+    display:flex;
+    justify-content: center;
+    font-family:Serif;
+   
+}
+
+ .serviceintro{
+    /* flex-direction: column; */
+    text-align: center;
+ }
+
+.serviceintro h1{
+color:white !important;
+text-align: center;  font-family: Times, serif;
+font-size:3.5rem
+}
+.serviceintro i{
+    /* padding :45px !important;   */
+color:white !important;
+ font-weight: lighter;  font-family: Times, serif;
+font-size:1rem
+
+}    .serviceintro button{
+    
+}

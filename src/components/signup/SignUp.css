@@ -1,0 +1,38 @@
+
+
+
+.signupintro{
+    color:rgb(163, 251, 55);
+    font-weight:700;
+    text-align: center;
+}
+.signupmiddleimg img{
+    width:20rem;
+        height:30em;
+        border-radius: 1rem;
+        cursor: pointer;
+}
+
+/* .signupmiddleimg img:hover{
+    width:18rem;
+    height:28em;
+} */
+
+.forminputbox{
+
+    margin:1rem;
+    width:25rem;
+    height:4rem;
+    border-radius: 50px;
+text-align: center;
+outline: none;
+
+}
+.forminputbox:hover{
+    border:rgb(214, 5, 241)
+}
+
+.submitbtn{
+    justify-content: center;
+    text-align: center;
+}

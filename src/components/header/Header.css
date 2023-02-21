@@ -1,0 +1,47 @@
+.header{
+   
+    background-color: rgb(2, 2, 2); 
+    width:auto;
+    
+    /* height:auto; */
+    
+    
+}
+
+li{
+    margin-right:13px;
+    color: blueviolet !important;
+}
+.nav-link  {
+    
+    color: rgb(8, 255, 239) !important;
+    font-size: 1rem !important;
+    font-weight: bold !important;
+    
+}
+
+.nav-link:hover{
+    color:rgb(162, 94, 225) !important;
+  
+}
+
+
+.linkcenter{
+    display: flex !important ;
+   
+    justify-content: space-between !important;
+ 
+    
+} 
+.cameraicon {
+    width:'1rem' !important;
+    border-radius: 3.5rem !important
+}
+ Link{
+    color:white !important
+    
+ }
+ .navcenter {
+text-align: center !important;
+color:rgb(255, 38, 0)
+ }
